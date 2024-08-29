@@ -18,7 +18,7 @@
 
 [Fale Comigo](https://api.whatsapp.com/send/?phone=5511978242396&text&type=phone_number&app_absent=0)
 
-![Minha Imagem](
+![Minha Imagem](IMG.png)
 
 
 <!--
