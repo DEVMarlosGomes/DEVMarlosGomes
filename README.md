@@ -20,6 +20,17 @@
 
 ![Minha Imagem](IMG.png)
 
+### 📊 Minhas Estatísticas no GitHub
+
+![Estatísticas do GitHub de rfamiglietti](https://github-readme-stats.vercel.app/api?username=DEVMarlosGomes&show_icons=true&theme=radical)
+
+### 🏆 Linguagens Mais Usadas
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVMarlosGomes&layout=compact&theme=radical)
+
+### 🏆 Troféus de Perfil do GitHub
+
+![Troféus de Perfil do GitHub](https://github-profile-trophy.vercel.app/?username=DEVMarlosGomes&theme=onedark)
 
 <!--
 **DEVMarlosGomes/DEVMarlosGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
