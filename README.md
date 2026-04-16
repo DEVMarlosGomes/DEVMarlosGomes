@@ -86,7 +86,11 @@ const marlos = {
 <div align="center">
 
 <a href="https://github.com/DEVMarlosGomes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DEVMarlosGomes&repo=SAPATARIA-DO-ARNALDO&theme=tokyonight&border_color=1D9E75&bg_color=0d1117&title_color=1D9E75&icon_color=378ADD" />
+<img src="https://github.com/DEVMarlosGomes/SENAI-School-Manager&theme=tokyonight&border_color=1D9E75&bg_color=0d1117&title_color=1D9E75&icon_color=378ADD" />
+
+  <img src="https://github.com/DEVMarlosGomes/fitmaster&theme=tokyonight&border_color=1D9E75&bg_color=0d1117&title_color=1D9E75&icon_color=378ADD" />
+
+  <img src="https://github.com/DEVMarlosGomes/Saas-PCM&theme=tokyonight&border_color=1D9E75&bg_color=0d1117&title_color=1D9E75&icon_color=378ADD" />
 </a>
 
 </div>
