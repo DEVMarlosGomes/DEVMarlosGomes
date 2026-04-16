@@ -29,7 +29,7 @@
 const marlos = {
   nome:       "Marlos Gomes",
   localidade: "São Paulo, SP 🇧🇷",
-  formação:   "Desenvolvimento Fullstack — SENAI Mooca",
+  formação:   "Ánalise e Desenvolvimento de Sistemas Fullstack — SENAI Mooca (Morvan Figueiredo)",
   
   atuação: ["Desenvolvedor Fullstack", "Corretor de Imóveis", "Especialista em Marketing Imobiliário"],
   
